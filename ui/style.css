@@ -23,7 +23,9 @@ body {
     margin:20px;
     border:10px;
     color:red;
-    background-color:blue;
     text-align:center;
 }
-
+.items{
+    background-color:blue;
+    margin:10px;
+}
